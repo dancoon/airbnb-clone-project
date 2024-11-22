@@ -68,7 +68,7 @@ This page showcases the booking or reservation process for the selected property
 - Helps maintain the brand identity
 - Streamlines the design process
 
-## Software Development Team Roles 👥
+## Project Roles and Responsibilities 👥
 
 In a software development project, clearly defined roles and responsibilities are crucial for success. Here’s a
 breakdown of the typical roles within a development team and their key responsibilities:
